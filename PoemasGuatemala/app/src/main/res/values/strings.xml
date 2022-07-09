@@ -1,0 +1,327 @@
+<resources>
+    <string name="app_name">PoemasGuatemala</string>
+    <string name="TituloRomantico1">
+        Titulo: Alma que me buscas\nPor: Angelina Acuna
+    </string>
+    <string name="Romantico1">
+        Yo sé que hay un alma lejos de la mía.\n
+        Un alma distante que también espera.\n
+        Que busca mis huellas esquivas\n
+        Y que de mis pasos huye sin saberlo\n
+        Tal  vez han rozado sus líricas alas\n
+        El suave  temblor  de las mías.\n
+        Acaso en sus ojos mi luz fascinada\n
+        Encendió  un instante la imagen perdida\n
+        Quizá en los vaivenes del mundo  inconstantes\n
+        Las dos almas se oyen se ven se preguntan\n
+        Pero no se escuchan ni miran y parten\n
+        Buscándose  siempre sin hallarse nunca\n
+        Alma  que me buscas yo que desespero\n
+        Te busco y te llamo  sin nombre preciso\n
+        Con alas de música locura y anhelos\n
+        Surcando silencios de tedio y de frío\n
+        Donde en que milagro Cuando En que\n
+        En qué extraño  mundo de lumbres arcanas\n
+        Tal vez para entonces nos diga el destino\n
+        Que ya estamos juntas y somos hermanas\n
+    </string>
+    <string name="TituloRomantico2">
+        Titulo: Amar\nPor: Aida Toledo
+    </string>
+    <string name="Romantico2">
+        Amar ha sido todo\n
+        amar y dejar de amar\n
+        porque todo se ha ido\n
+        deduciendo al verbo AMAR y sus complicaciones\n
+        Amar su cuerpo\n
+        sus ojos\n
+        sus manos\n
+        su pelo\n
+        sus pies y\n
+        sus poemas\n
+        Amar lo imposible\n
+        amar ante la certeza de lo inevitable\n
+        amar arrebatando\n
+        amar por un segundo\n\n
+        pero amar\n\n
+        amar por unos días\n\n
+        pero amar\n\n
+        Amar por unos años\n\n
+        pero amar\n\n
+        Y después quizá el desamor\n
+        Con todo lo que tenemos\n
+        no podemos dejar de amar\n
+        de conjugar el verbo prohibido\n
+        de conjugarlo\n
+        yo amo\n
+        tú amas\n
+        etcétera\n
+        etcétera\n
+        Así el verbo el inquisidor\n
+        El del deseo el inquisidor\n
+        El de la piel erizada\n
+        el de los remordimientos\n
+        el de las manos suaves\n
+        el de los besos en la boca\n
+        en la nuca\n
+        en los pezones\n
+        ese verbo adulador\n
+        A veces potro de tortura.
+    </string>
+    <string name="TituloRomantico3">
+        Titulo: El Amor\nPor: Miguel Angel Asturias
+    </string>
+    <string name="Romantico3">
+        ¡Ah, suave afán, cabal e inútil pena,\n
+        clima de una piel tibia como un trino,\n
+        en secreto misterio la cadena\n
+        forjando está con sólo ser divino!\n
+        Astral tonicidad de sus recreos,\n
+        preciosa soledad de sus combates,\n
+        en linterna de alarma sus deseos\n
+        quemando está de campos a penates.\n\n
+        Eternidad de pétalo de rosa,\n
+        silencio azul de álamo que aroma,\n
+        manjar de sombra con calor de esposa,\n
+        fruto prohibido que en el polen yerra,\n
+        tejiendo está con alas de paloma,\n
+        el vestido de novia de la Tierra.\n
+    </string>
+    <string name="TituloHimno1">
+        Titulo: Monja Blanca de Guatemala\nPor: Edwin Yanes
+    </string>
+    <string name="Himno1">
+        Bella Monja Blanca de Guatemala\n
+        tu hermosura cautiva a propios y extraños\n
+        tu rareza te viste con traje de gala\n
+        para ser admirada por adultos y niños.\n
+        \n\n
+        Oh Monja Blanca, encanto de diamante\n
+        Flor Nacional de mi patria amada\n
+        musa del poeta, poesía del estudiante\n
+        tu escasez y lindura te hace delicada.\n
+        \n\n
+        Excelsa Monja Blanca de mi país\n
+        reina de las verdes montañas\n
+        te aprecio desde que existís\n
+        como símbolo de grandes hazañas\n
+        \n\n
+        Monja Blanca, símbolo patrimonial\n
+        en una moneda fuiste acuñada\n
+        para conservar tu belleza natural\n
+        de las orquídeas la más soñada.\n
+    </string>
+    <string name="TituloHimno2">
+        Titulo: Poema a la Bandera de Guatemala\nPor: Edwin Yanes
+    </string>
+    <string name="Himno2">
+        Al verte ondear mi corazón\n
+        sigue tus pasos de libertad;\n
+        siempre cautivas mi atención\n
+        con tu hermosura de majestad.\n
+        \n\n
+        Tus colores azul, blanco y azul\n
+        tiñen mi cielo de esperanza\n
+        guardando el dolor en el baúl\n
+        colmando mí ser de confianza.\n
+        \n\n
+        El azul representa justicia y verdad\n
+        el blanco significa pureza y paz\n
+        valores para vivir en hermandad\n
+        lucha por ello, tú eres capaz.\n
+        \n\n
+        Cuando pases frente a la bandera\n
+        detente y salúdala con respeto\n
+        no es un símbolo cualquiera\n
+        es un símbolo patrio, según decreto.\n
+        \n\n
+        Bandera Nacional de Guatemala\n
+        Símbolo Patrio de hazaña y libertad\n
+        que se viste en septiembre de gala\n
+        para inspirar al hombre de bondad.\n
+    </string>
+    <string name="TituloHimno3">
+        Titulo: Poema a al Quetzal\nPor: Edwin Yanes
+    </string>
+    <string name="Himno3">
+        Quetzal, bella y encantadora ave\n
+        símbolo Nacional de nuestra libertad\n
+        luz de mi patria, de plumaje suave\n
+        llevas en tu pecho el  lema de verdad.\n
+        \n\n
+        Pájaro Quetzal emblema de mi país\n
+        signo de leal y rotunda amistad\n
+        pues en el pecho del hombre morís\n
+        expresando tu profunda  hermandad.\n
+        \n\n
+        Pájaro Quetzal de bosques nublados\n
+        bosques lluviosos y altas montañas\n
+        que te posas sobre los acantilados\n
+        para esconder tus grandes hazañas.\n
+        \n\n
+        Pájaro Quetzal, nuestra alma mater\n
+        te quiere conservar para la posteridad\n
+        aunque de todos debe ser un deber\n
+        pues eres estandarte de lucha y bondad.\n
+        \n\n
+        Pájaro Quetzal, tu belleza te hace único\n
+        digno de pleno respeto y admiración\n
+        yo bardo te escribo y te rindo tribúnico.\n
+        para resaltar tu grandeza en la nación.\n
+    </string>
+    <string name="TituloVarios1">
+        Titulo: Se llamaba...\nPor: Francisco Mendez
+    </string>
+    <string name="Satira1">
+        Se llamaba Lucía y se pintaba furiosamente las uñas\n
+        y me dejaba una sensación tibia de naranja.\n\n
+
+        Desde la calle mis dieciocho abriles\n
+        subían por el muro a la ventana\n
+        coronados de yedras unas veces\n
+        y puntiagudos otras como llamas,\n
+        mientras el cielo caía gota a gota\n
+        de los tejados de las casas.\n\n
+
+        Me gustaba la falsa humedad de sus medias\n
+        que daban a sus piernas un resplandor de agua,\n
+        me gustaban las yemas de sus dedos,\n
+        me gustaba su olor a lápiz, me gustaba\n
+        el pececillo gordo de su lengua\n
+        y su manera de preguntar: ¿Me amas?\n\n
+
+        Olía a yerbabuena y a ciertos jabones cursis\n
+        cuando por el escote se escapaban\n
+        sus senos, de puntillas\n
+        con pies de ángel, casi como alas,\n
+        y mis manos se hacían de pronto mariposas\n
+        y los espejos eran ramas\n
+        cargadas de duraznos y de extraños jacintos,\n
+        y algo se derretía al nivel de la cama.\n\n
+
+        Nunca dijo que sí pero cedía siempre.\n
+        Me acuerdo de sus ligas y del burujo de sus enaguas,\n
+        de sus medias colgadas en alguna parte\n
+        y de su cabellera dispersa por la almohada\n
+        como una mancha de tinta ligeramente azulosa\n
+        o un vivero de arañas.\n\n
+
+        Se llamaba Lucía, pero pudo llamarse Rosa.\n\n
+
+        El nombre, como siempre, ni da ni quita nada.\n\n
+
+        Más allá de las islas heladas del olvido\n
+        donde mi corazón jamás echará ancla,\n
+        no pertenece ya a mi historia esta historia\n
+        y más que cosa vivida se antoja imaginada.\n
+        Se me confunde ahora con las habladurías\n
+        de las comadres contra las muchachas,\n
+        cuando se sientan alrededor de una taza de café\n
+        mientras la tos ya infla, ya desinfla la sala…\n
+    </string>
+    <string name="TituloVarios2">
+        Titulo: Un poco de cielo\nPor: Francisco Mendez
+    </string>
+    <string name="Satira2">
+        Tu recuerdo, en el aire;\n
+        con el humo en que se despereza mi último cigarro,\n
+        a la luz espectral de los aparadores\n
+        o, de súbito, dentro del ropero de la luna.\n\n
+
+        Es la hora de las ventanas bien abiertas\n
+        y los libros por el suelo,\n
+        cuando la tarde penetra a las alcobas, debajo de las camas,\n
+        se va a pique en las palanganas, y en los espejos\n
+        o mancha las barbudas colchas almidonadas.\n\n
+
+        Vienes con las tazas de té, desde los melocotones,\n
+        en la contraluz que dan las naranjas,\n
+        y es tu misma sonrisa congelada de muerte,\n
+        la misma\n
+        que se prendió a tu boca como una sanguijuela.\n\n
+
+        Eres como palabra que busca una garganta,\n
+        o como el anhelo de ser sueño.\n\n
+
+        Vienes\n
+        y te quedas aquí, sobre mi libro abierto,\n
+        perdida por el vidrio de mis anteojos,\n
+        adherida a mis dedos, a mi nariz que se yergue en la boca\n
+        y en medio de los ojos —como cuña.\n\n
+
+        ¿De dónde? ¡Di! ¿De dónde?\n\n
+
+        Algunas noches siento que vienen a buscarte.\n\n
+
+        Manos imprecisas, palpan bajo los cobertores\n
+        y por la estepa boreal de las sábanas;\n
+        presiento la carne de gallina que ponen los cojines,\n
+        los colchones\n
+        por el tactear peludo y vacilante\n
+        que deshiela el horror acumulado en mis huesos.\n\n
+
+        Desde afuera,\n
+        allende el viento, allende los árboles como carbonizados\n
+        quiero ver, en las noches, algo que está esperándote\n
+        algo que alienta en el rumor del río y de la propia noche\n
+        y de la hojarasca pisada imperceptiblemente.\n\n
+
+        Hay un rodar, un gélido rodar —el mismo\n
+        de cuando, tras un grito que me rasgó la sangre,\n
+        te empujaron al caos los ojos de la muerte.\n\n
+
+        ¿Qué tiene eso que ver con que el viento llore en el ojo de la llave\n
+        y con que crujan los huesos de los armarios?\n\n
+
+        Cuando abro la polvera donde empollan su blancura las motas,\n
+        cuando alguien se ahoga en el sifón del lavado,\n
+        cuando se me quedan viendo, con sus ojos de todos los colores,\n
+        los frascos de aguas aromáticas\n
+        o la pecera inunda de su temblor la alcoba,\n
+        tu recuerdo, en el aire, se hace aire,\n
+        se hace silencio y luego pensamiento.
+    </string>
+    <string name="TituloVarios3">
+        Titulo: Nocturno\nPor: Francisco Mendez
+    </string>
+    <string name="Satira3">
+        Yo me pregunto ahora qué espero, qué persigo,\n
+        qué hago aquí entre la noche tundido y humillado,\n
+        viendo cómo gotea mi corazón, mi húmedo\n
+        corazón solitario como el reloj de un muerto;\n
+        por qué en vez de sentir mi hígado o mis pulmones,\n
+        o el peso de mi lengua ya casi como un liquen,\n
+        o el limar sigiloso del pensamiento, ahora\n
+        sólo siento que cae mi corazón al agua,\n
+        que cae gota a gota, sudando desde un muro,\n
+        brotando desde el mundo oscuro de mí mismo,\n
+        cual si me derritiera yo mismo poco a poco\n
+        y me fuera rodando al agua y asfixiándome\n
+        ahogándome en pedazos indefinidamente.\n\n
+
+        Me pregunto qué miro cuando no miro nada,\n
+        con quién estoy hablando ahora que hablo solo,\n
+        de qué está lleno el hueco de mis manos vacías,\n
+        por qué crece mi pelo como si me doliera,\n
+        como si me arrancaran de cuajo las raíces,\n
+        o el pelo fuera un poco de esa noche de adentro\n
+        helada o interminable que se me va escapando.\n\n
+
+        Brasa de mi costado, yodo en la carne viva,\n
+        viejo agujero negro, o garfio, o ay de hielo\n
+        mi corazón me habita, él sólo, aquesta noche.\n\n
+
+        (¿Quién llama entre la furia de sus aldabonazos?\n
+        ¿Quién pasa en sus pisadas? ¿Quién clava clavos torvos?)\n
+
+        Esta noche me habita mi corazón, él sólo.\n\n
+
+        Esta noche camina por salas y pasillos\n
+        un monje vivo que es también un alma en pena.\n\n
+
+        Y mientras el silencio duele y la vida duele\n
+        y la noche me duele como una inmensa herida,\n
+        mi corazón se vuelve una pequeña noche,\n
+        una grieta que bebe la noche gota a gota.
+    </string>
+</resources>
