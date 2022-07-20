@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ListView_Paises</string>
+    <string name="Argentina">
+        Hola soy Argentina\n
+        Mi poblacion es de 45.38 Millones de personas
+    </string>
+    <string name="Brazil">
+        Hola soy Brasil\n
+        Mi poblacion es de 216.6 Millones de personas
+    </string>
+    <string name="Chile">
+        Hola soy Chile\n
+        Mi poblacion es de 19.12 Millones de personas
+    </string>
+    <string name="Francia">
+        Hola soy Francia\n
+        Mi poblacion es de 67.39 Millones de personas
+    </string>
+    <string name="Inglaterra">
+        Hola soy Inglaterra\n
+        Mi poblacion es de 55.98 Millones de personas
+    </string>
+    <string name="Italia">
+        Hola soy Italia\n
+        Mi poblacion es de 59.55 Millones de personas
+    </string>
+    <string name="Mexico">
+        Hola soy Mexico\n
+        Mi poblacion es de 128.9 Millones de personas
+    </string>
+    <string name="Peru">
+        Hola soy Peru\n
+        Mi poblacion es de 32.97 Millones de personas
+    </string>
+    <string name="Usa">
+        Hola soy Estados Unidos\n
+        Mi poblacion es de 329.5 Millones de personas
+    </string>
+    <string name="Venezuela">
+        Hola soy Venezuela\n
+        Mi poblacion es de 28.44 Millones de personas
+    </string>
+</resources>
