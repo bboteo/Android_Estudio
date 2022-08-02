@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">VentaPinturas_AdapterPersonalizado</string>
+    <string name="ic_puntillismo_001_obra">
+        Título original: Un dimanche apres-midi à lIle de la Grande Jatte\n
+        Título (inglés): A Sunday Afternoon on the Island of La Grande Jatte\n
+    </string>
+    <string name="ic_puntillismo_001_detalle">
+        Autor: Seurat\n
+        Estilo: Puntillismo\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: circa 1884\n
+        Se encuentra en: Instituto de Arte de Chicago.\n
+        La obra puntillista más célebre del artista. Se trata de un paisaje veraniego en las inmediaciones de Asnieres en París. Lugar donde acudían las clases trabajadoras, que no podías permitirse el desplazamiento a litorales de mayor lujo.
+        Pintado mancha a mancha, se considera el exponente más puro del puntillismo francés. Está impregnado de las características más distintivas de Seurat, como son: combinación de colores vibrantes y gran cantidad de luz fría.
+    </string>
+    <string name="ic_puntillismo_002_obra">
+        Título original: Une baignade à Asnières\n
+        Título (inglés): Bathers at Asnières\n
+    </string>
+    <string name="ic_puntillismo_002_detalle">
+        Autor: Seurat\n
+        Estilo: Puntillismo\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: 1884\n
+        Se encuentra en: The National Gallery, Londres\n
+        Al igual que la obra anterior, presenta un paisaje luminoso, en el mismo entorno y ejecutado con la misma técnica puntillista.
+        Aunque hoy en día es considerado una pieza clave del impresionismo, su aspecto algo Naíf, le valió no ser aceptado por los críticos de la época. Rechazado para ser expuesto en una de las principales galerías de la época: El Salón de París.
+    </string>
+    <string name="ic_puntillismo_003_obra">
+        Título (inglés): The Channel of Gravelines, Petit Fort Philippe\n
+    </string>
+    <string name="ic_puntillismo_003_detalle">
+        Autor: Seurat\n
+        Estilo: Puntillista\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: 1890\n
+        Se encuentra en: Museo de Arte de Indianápolis
+        Pintado en la época más tardía del artista. Demuestra un giro estético lleno de frescura, hacia un nuevo estilo emergente, de que es considerado como uno de sus fundadores: el postimpresionismo.
+    </string>
+    <string name="ic_cubismo_001_obra">
+        Título original: Las Damas de Avinon\n
+    </string>
+    <string name="ic_cubismo_001_detalle">
+        Autor: Pablo Picaso\n
+        Estilo: Cubismo\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: circa 1907\n
+        Se encuentra en: Museum of Modern Art, New York.\n
+        La pantalla muestra cinco mujeres desnudas representadas con trazos geométricos. Tenga en cuenta que las dos chicas del lado izquierdo tienen caras como máscaras africanas. Este detalle muestra explícitamente la influencia del arte «primitivo» en la obra de Picasso.
+    </string>
+    <string name="ic_cubismo_002_obra">
+        Título original: Violin y Cantaro\n
+    </string>
+    <string name="ic_cubismo_002_detalle">
+        Autor: Pablo Picaso\n
+        Estilo: Cubismo\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: circa 1910\n
+        Se encuentra en: Museum of Modern Art, New York.\n
+        El pintor pretendía producir nuevas formas de representación, fragmentando objetos y deconstruyendo las nociones tradicionales de perspectiva. Por eso, el cubismo analítico casi siempre utilizó tonos cromáticos muy neutros.
+    </string>
+    <string name="ic_cubismo_003_obra">
+        Título original: Juan Gris\n
+    </string>
+    <string name="ic_cubismo_003_detalle">
+        Autor: Pablo Picaso\n
+        Estilo: Cubismo\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: circa 1912\n
+        Se encuentra en: Museum of Modern Art, New York.\n
+        En la composición, Picasso está representado a los 31 años sosteniendo una paleta de pintura. Las líneas rectas y las formas geométricas son expresivas, pero aún es posible reconocer la figura de la escena.
+    </string>
+</resources>
