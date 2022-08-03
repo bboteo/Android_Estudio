@@ -1,5 +1,6 @@
 package com.example.ventapinturas_adapterpersonalizado;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
@@ -82,6 +83,7 @@ public class AdapterPersonalizado2 extends BaseAdapter {
                 intentCompra.putExtra("nameObra",nombreObra);
                 intentCompra.putExtra("precioObra",precioObra);
                 context.startActivity(intentCompra);
+                ((Activity)context).finish();
             }
         });
         return v;

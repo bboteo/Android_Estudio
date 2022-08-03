@@ -60,6 +60,7 @@ public class ComprarPintura extends AppCompatActivity implements View.OnClickLis
                     intent.putExtra("compraNit",nit.getText().toString());
                     intent.putExtra("precioObra",precioObra.getText().toString());
                     startActivity(intent);
+                    this.finish();
                 }else{
                     Toast.makeText(this,"Todos los datos son obligatorios",Toast.LENGTH_LONG).show();
                 }
