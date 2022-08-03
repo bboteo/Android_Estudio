@@ -78,7 +78,7 @@ public class ComprarPintura extends AppCompatActivity implements View.OnClickLis
         if (bundle!=null){
             Integer imgObra0 = bundle.getInt("imgObra");
             Integer nombreObra0 = bundle.getInt("nameObra");
-            String precioObra0 = bundle.getString("precioObra");
+            Integer precioObra0 = bundle.getInt("precioObra");
 
             nombreObra.setText(nombreObra0);
             precioObra.setText(precioObra0);

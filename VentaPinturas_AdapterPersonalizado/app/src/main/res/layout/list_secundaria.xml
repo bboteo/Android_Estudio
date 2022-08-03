@@ -2,20 +2,10 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="#7A87EC"
     android:orientation="vertical">
 
-    <!--
-    <TextView
-        android:id="@+id/list2NombreCategoria"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Categoria"
-        android:textSize="35sp"
-        android:layout_gravity="center"
-        android:gravity="center"
-        />
-        -->
-    <ScrollView
+     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <LinearLayout
@@ -46,6 +36,18 @@
                 android:textSize="15sp"
                 android:textStyle="italic"
                 android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/list2Precio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="10sp"
+                android:text="Q.0.00"
+                android:textSize="20sp"
+                android:textStyle="normal"
+                android:textColor="#EC1515"
+                android:layout_gravity="center"
+                />
             <Button
                 android:id="@+id/list2btnAdquirir"
                 android:layout_width="wrap_content"

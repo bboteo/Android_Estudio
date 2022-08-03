@@ -4,6 +4,9 @@
         Título original: Un dimanche apres-midi à lIle de la Grande Jatte\n
         Título (inglés): A Sunday Afternoon on the Island of La Grande Jatte\n
     </string>
+    <string name="ic_001_puntillismo_precio">
+        Q100.00
+    </string>
     <string name="ic_puntillismo_001_detalle">
         Autor: Seurat\n
         Estilo: Puntillismo\n
@@ -19,6 +22,9 @@
         Título original: Une baignade à Asnières\n
         Título (inglés): Bathers at Asnières\n
     </string>
+    <string name="ic_002_puntillismo_precio">
+        Q101.00
+    </string>
     <string name="ic_puntillismo_002_detalle">
         Autor: Seurat\n
         Estilo: Puntillismo\n
@@ -33,6 +39,9 @@
     <string name="ic_puntillismo_003_obra">
         Título (inglés): The Channel of Gravelines, Petit Fort Philippe\n
     </string>
+    <string name="ic_003_puntillismo_precio">
+        Q102.00
+    </string>
     <string name="ic_puntillismo_003_detalle">
         Autor: Seurat\n
         Estilo: Puntillista\n
@@ -45,6 +54,9 @@
     </string>
     <string name="ic_cubismo_001_obra">
         Título original: Las Damas de Avinon\n
+    </string>
+    <string name="ic_001_cubismo_precio">
+        Q200.00
     </string>
     <string name="ic_cubismo_001_detalle">
         Autor: Pablo Picaso\n
@@ -59,6 +71,9 @@
     <string name="ic_cubismo_002_obra">
         Título original: Violin y Cantaro\n
     </string>
+    <string name="ic_002_cubismo_precio">
+        Q201.00
+    </string>
     <string name="ic_cubismo_002_detalle">
         Autor: Pablo Picaso\n
         Estilo: Cubismo\n
@@ -72,6 +87,9 @@
     <string name="ic_cubismo_003_obra">
         Título original: Juan Gris\n
     </string>
+    <string name="ic_003_cubismo_precio">
+        Q202.00
+    </string>
     <string name="ic_cubismo_003_detalle">
         Autor: Pablo Picaso\n
         Estilo: Cubismo\n
@@ -81,5 +99,56 @@
         Año: circa 1912\n
         Se encuentra en: Museum of Modern Art, New York.\n
         En la composición, Picasso está representado a los 31 años sosteniendo una paleta de pintura. Las líneas rectas y las formas geométricas son expresivas, pero aún es posible reconocer la figura de la escena.
+    </string>
+    <string name="ic_realismo_001_obra">
+        Título original: Los comedores de patatas\n
+    </string>
+    <string name="ic_001_realismo_precio">
+        Q300.00
+    </string>
+    <string name="ic_realismo_001_detalle">
+        Autor: Vincent van Gogh\n
+        Estilo: Realismo\n
+        Título: Los comedores de patatas\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: 1885\n
+        Se encuentra en: Museo Kröller-Müller\n
+        Los comedores de patatas es un cuadro del pintor Vincent van Gogh, que creó en abril de 1885 mientras residía en Nuenen, Países Bajos. Se encuentra en el Museo Van Gogh de Ámsterdam. La versión que se encuentra en el Museo Kröller-Müller de la ciudad de Otterlo es un bosquejo preliminar en óleo.
+    </string>
+    <string name="ic_realismo_002_obra">
+        Título original: Ivan el Terrible y su hijo\n
+    </string>
+    <string name="ic_002_realismo_precio">
+        Q301.00
+    </string>
+    <string name="ic_realismo_002_detalle">
+        Autor: Ilia Repin\n
+        Estilo: Realismo\n
+        Título: Ivan el Terrible y su hijo\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: 1885\n
+        Se encuentra en: Museo Kröller-Müller\n
+        Iván el Terrible y su hijo o Iván el Terrible y su hijo el 16 de noviembre de 1581 es una obra realizada por el artista ruso Ilía Repin en 1885. Se trata de un óleo sobre lienzo con unas dimensiones de 2 × 2,54 m.
+    </string>
+    <string name="ic_realismo_003_obra">
+        Título original: El desesperado\n
+    </string>
+    <string name="ic_003_realismo_precio">
+        Q302.00
+    </string>
+    <string name="ic_realismo_003_detalle">
+        Autor: Gustavo Courbet\n
+        Estilo: Realismo\n
+        Título: El desesperado\n
+        Tipo: Cuadro\n
+        Técnica: Óleo\n
+        Soporte: Lienzo\n
+        Año: 1845\n
+        Se encuentra en: Coleccion Privado\n
+        El desesperado es un cuadro del pintor francés Gustave Courbet. Realizado en 1845, es un autorretrato del artista en la imagen de un hombre joven que mira al espectador con desesperación e impaciencia. Este cuadro forma parte de una colección particular.
     </string>
 </resources>

@@ -17,13 +17,7 @@
             android:name=".VerTodasLasCategorias"
             android:exported="false" />
         <activity
-            android:name=".VerCategoriaCubismo"
-            android:exported="false" />
-        <activity
             android:name=".CompraTerminada"
-            android:exported="false" />
-        <activity
-            android:name=".VerCategoriaPuntillismo"
             android:exported="false" />
         <activity
             android:name=".ComprarPintura"
