@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txtTituloPelicula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Titulo Pelicula"
+        android:textSize="25sp"
+        android:layout_margin="15sp"
+        android:textColor="#ECA52C"/>
+
+    <ImageView
+        android:id="@+id/imgPelicula"
+        android:layout_width="200sp"
+        android:layout_height="100sp"
+        android:layout_gravity="center"
+        android:src="@mipmap/ic_launcher"
+        android:layout_margin="15sp"/>
+
+    <TextView
+        android:id="@+id/txtComentarioPelicula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="comentarioPelicula"
+        android:textSize="15sp"
+        android:layout_margin="15sp"
+        android:textColor="@color/black"
+        />
+
+</LinearLayout>

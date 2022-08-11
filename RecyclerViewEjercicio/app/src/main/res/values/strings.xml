@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="titulo_1_ElPadrino">
+        Titulo: El Padrino
+    </string>
+    <string name="comentario_1_ElPadrino">
+        La película mejor escrita, mejor actuada y más hermosa sobre la experiencia del inmigrante jamás hecha. Además, inventó los clichés más modernos.
+    </string>
+    <string name="titulo_2_MadMax">
+        Titulo: Mad Max : Furia en la Carretera
+    </string>
+    <string name="comentario_2_MadMax">
+        En una era de superhéroes recreados por ordenador, George Miller nos recordó cómo deben hacerse las películas de acción. 
+    </string>
+    <string name="titulo_3_Parasitos">
+        Titulo: Parasitos
+    </string>
+    <string name="comentario_3_Parasitos">
+        No hay explicación posible que haga justicia a Parásitos: un thriller psicológico, un drama familiar, una historia de terror sobre los males del capitalismo y la búsqueda implacable de la riqueza.
+    </string>
+    <string name="titulo_4_Tiburon">
+        Titulo: Tiburon
+    </string>
+    <string name="comentario_4_Tiburon">
+        El tiburón era una marioneta gigante con dientes falsos, y aún así te asustaba.
+    </string>
+    <string name="titulo_5_ElBueno">
+        Titulo: El bueno, el feo y el malo
+    </string>
+    <string name="comentario_5_ElBueno">
+        Clint Eastwood se pone un poncho y se convierte en un icono americano en las llanuras españolas. Su tema musical: el oscuro tintineo de la partitura de Ennio Morricone. Todo inconmensurable
+    </string>
+    <string name="titulo_6_CazaFantasmas">
+        Titulo: Los Cazafantasmas
+    </string>
+    <string name="comentario_6_CazaFantasmas">
+        Un hombre en un ascensor: ¿Qué se supone que sois, una especie de cosmonautas? No, somos exterminadores. Y alguien vio una cucaracha en la planta 12.
+    </string>
+    <string name="titulo_7_Rambo">
+        Titulo: Acorralado (Rambo)
+    </string>
+    <string name="comentario_7_Rambo">
+        Primera mitad: una gran persecución. Segunda mitad: una venganza a fondo.
+    </string>
+    <string name="titulo_8_Terminator">
+        Titulo: Terminator
+    </string>
+    <string name="comentario_8_Terminator">
+        No hace falta decir nada.
+    </string>
+    <string name="titulo_9_Alien">
+        Titulo: Alien: el octavo pasajero
+    </string>
+    <string name="comentario_9_Alien">
+        Tal vez una de las películas de ciencia ficción más innovadoras de todos los tiempos, los directores siguen tratando de recrear la tensión y la atmósfera de esta obra maestra de Ridley Scott.
+    </string>
+    <string name="titulo_10_ElResplandor">
+        Titulo: El resplandor
+    </string>
+    <string name="comentario_10_ElResplandor">
+        Porque Stanley Kubrick convirtió a un niño en un triciclo en una de las imágenes más siniestras del cine.
+    </string>
+</resources>

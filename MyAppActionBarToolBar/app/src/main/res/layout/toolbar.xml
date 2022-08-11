@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120sp"
+    android:background="@color/purple_700"
+    android:elevation="15sp"
+    android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+    android:popupTheme="@style/Theme.AppCompat.Light"
+    >
+
+
+</androidx.appcompat.widget.Toolbar>
