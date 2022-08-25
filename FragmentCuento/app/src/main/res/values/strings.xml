@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">FragmentCuento</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TituloCuento1">
+        Horacio Quiroga\n
+        (1879-1937)\n
+        A LA DERIVA\n
+        (Cuentos de amor, de locura y de muerte, (1917)\n
+    </string>
+    <string name="Cuento1">
+         El hombre pisó blanduzco, y en seguida sintió la mordedura en el pie. Saltó adelante, y al volverse con un juramento vio una yararacusú que arrollada sobre sí misma esperaba otro ataque.
+         \nEl hombre echó una veloz ojeada a su pie, donde dos gotitas de sangre engrosaban dificultosamente, y sacó el machete de la cintura. La víbora vio la amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero el machete cayó de lomo, dislocándole las vértebras.
+         \nEl hombre se bajó hasta la mordedura, quitó las gotitas de sangre, y durante un instante contempló. Un dolor agudo nacía de los dos puntitos violetas, y comenzaba a invadir todo el pie. Apresuradamente se ligó el tobillo con su pañuelo y siguió por la picada hacia su rancho.
+         \nEl dolor en el pie aumentaba, con sensación de tirante abultamiento, y de pronto el hombre sintió dos o tres fulgurantes puntadas que como relámpagos habían irradiado desde la herida hasta la mitad de la pantorrilla. Movía la pierna con dificultad; una metálica sequedad de garganta, seguida de sed quemante, le arrancó un nuevo juramento.
+         \nLlegó por fin al rancho, y se echó de brazos sobre la rueda de un trapiche. Los dos puntitos violeta desaparecían ahora en la monstruosa hinchazón del pie entero. La piel parecía adelgazada y a punto de ceder, de tensa. Quiso llamar a su mujer, y la voz se quebró en un ronco arrastre de garganta reseca. La sed lo devoraba.
+         \n—¡Dorotea! —alcanzó a lanzar en un estertor—. ¡Dame caña!
+         \nSu mujer corrió con un vaso lleno, que el hombre sorbió en tres tragos. Pero no había sentido gusto alguno.
+         \n—¡Te pedí caña, no agua! —rugió de nuevo. ¡Dame caña!
+         \n—¡Pero es caña, Paulino! —protestó la mujer espantada.
+         \n—¡No, me diste agua! ¡Quiero caña, te digo!
+         \nLa mujer corrió otra vez, volviendo con la damajuana. El hombre tragó uno tras otro dos vasos, pero no sintió nada en la garganta.
+         \n—Bueno; esto se pone feo —murmuró entonces, mirando su pie lívido y ya con lustre gangrenoso. Sobre la honda ligadura del pañuelo, la carne desbordaba como una monstruosa morcilla.
+         \nLos dolores fulgurantes se sucedían en continuos relampagueos, y llegaban ahora a la ingle. La atroz sequedad de garganta que el aliento parecía caldear más, aumentaba a la par. Cuando pretendió incorporarse, un fulminante vómito lo mantuvo medio minuto con la frente apoyada en la rueda de palo.
+         \nPero el hombre no quería morir, y descendiendo hasta la costa subió a su canoa. Sentóse en la popa y comenzó a palear hasta el centro del Paraná. Allí la corriente del río, que en las inmediaciones del Iguazú corre seis millas, lo llevaría antes de cinco horas a Tacurú-Pucú.
+         \nEl hombre, con sombría energía, pudo efectivamente llegar hasta el medio del río; pero allí sus manos dormidas dejaron caer la pala en la canoa, y tras un nuevo vómito —de sangre esta vez—dirigió una mirada al sol que ya trasponía el monte.
+         \nLa pierna entera, hasta medio muslo, era ya un bloque deforme y durísimo que reventaba la ropa. El hombre cortó la ligadura y abrió el pantalón con su cuchillo: el bajo vientre desbordó hinchado, con grandes manchas lívidas y terriblemente doloroso. El hombre pensó que no podría jamás llegar él solo a Tacurú-Pucú, y se decidió a pedir ayuda a su compadre Alves, aunque hacía mucho tiempo que estaban disgustados.
+         \nLa corriente del río se precipitaba ahora hacia la costa brasileña, y el hombre pudo fácilmente atracar. Se arrastró por la picada en cuesta arriba, pero a los veinte metros, exhausto, quedó tendido de pecho.
+         \n—¡Alves! —gritó con cuanta fuerza pudo; y prestó oído en vano.
+         \n—¡Compadre Alves! ¡No me niegue este favor! —clamó de nuevo, alzando la cabeza del suelo. En el silencio de la selva no se oyó un solo rumor. El hombre tuvo aún valor para llegar hasta su canoa, y la corriente, cogiéndola de nuevo, la llevó velozmente a la deriva.
+         \nEl Paraná corre allí en el fondo de una inmensa hoya, cuyas paredes, altas de cien metros, encajonan fúnebremente el río. Desde las orillas bordeadas de negros bloques de basalto, asciende el bosque, negro también. Adelante, a los costados, detrás, la eterna muralla lúgubre, en cuyo fondo el río arremolinado se precipita en incesantes borbollones de agua fangosa. El paisaje es agresivo, y reina en él un silencio de muerte. Al atardecer, sin embargo, su belleza sombría y calma cobra una majestad única.
+         \nEl sol había caído ya cuando el hombre, semitendido en el fondo de la canoa, tuvo un violento escalofrío. Y de pronto, con asombro, enderezó pesadamente la cabeza: se sentía mejor. La pierna le dolía apenas, la sed disminuía, y su pecho, libre ya, se abría en lenta inspiración.
+         \nEl veneno comenzaba a irse, no había duda. Se hallaba casi bien, y aunque no tenía fuerzas para mover la mano, contaba con la caída del rocío para reponerse del todo. Calculó que antes de tres horas estaría en Tacurú-Pucú.
+         \nEl bienestar avanzaba, y con él una somnolencia llena de recuerdos. No sentía ya nada ni en la pierna ni en el vientre. ¿Viviría aún su compadre Gaona en Tacurú-Pucú? Acaso viera también a su ex patrón mister Dougald, y al recibidor del obraje.
+         \n¿Llegaría pronto? El cielo, al poniente, se abría ahora en pantalla de oro, y el río se había coloreado también. Desde la costa paraguaya, ya entenebrecida, el monte dejaba caer sobre el río su frescura crepuscular, en penetrantes efluvios de azahar y miel silvestre. Una pareja de guacamayos cruzó muy alto y en silencio hacia el Paraguay.
+         \nAllá abajo, sobre el río de oro, la canoa derivaba velozmente, girando a ratos sobre sí misma ante el borbollón de un remolino. El hombre que iba en ella se sentía cada vez mejor, y pensaba entretanto en el tiempo justo que había pasado sin ver a su ex patrón Dougald. ¿Tres años? Tal vez no, no tanto. ¿Dos años y nueve meses? Acaso. ¿Ocho meses y medio? Eso sí, seguramente.
+         \nDe pronto sintió que estaba helado hasta el pecho. ¿Qué sería? Y la respiración también...
+         \nAl recibidor de maderas de mister Dougald, Lorenzo Cubilla, lo había conocido en Puerto Esperanza un viernes santo... ¿Viernes? Sí, o jueves...
+         \nEl hombre estiró lentamente los dedos de la mano.
+         \n\n—Un jueves...
+         \nY cesó de respirar.
+    </string>
+    <string name="TituloCuento2">
+        Franz Kafka\n
+        (Praga, 1883-1924)\n
+`       Ante la ley (1915)\n
+        (“Vor dem Gesetz”)\n
+        Forma parte del manuscrito de la novela El proceso —capítulo “En la catedral” Originalmente publicado en el “semanario judío independiente” Selbswehr (7 de septiembre de 1915)
+    </string>
+    <string name="Cuento2">
+        Ante la ley hay un guardián. Un campesino se presenta frente a este guardián, y solicita  que le permita entrar en la Ley. Pero el guardián contesta que por ahora no puede dejarlo entrar. El hombre reflexiona y pregunta si más tarde lo dejarán entrar.
+      \n—Tal vez —dice el centinela— pero no por ahora.
+      \nLa puerta que da a la Ley está abierta, como de costumbre; cuando el guardián se hace a un lado, el hombre se inclina para espiar. El guardián lo ve, se sonríe y le dice:
+      \n—Si tu deseo es tan grande haz la prueba de entrar a pesar de mi prohibición. Pero recuerda que soy poderoso. Y sólo soy el último de los guardianes. Entre salón y salón también hay guardianes, cada uno más poderoso que el otro. Ya el tercer guardián es tan terrible que no puedo mirarlo siquiera.
+      \nEl campesino no había previsto estas dificultades; la Ley debería ser siempre accesible para todos, piensa, pero al fijarse en el guardián, con su abrigo de pieles, su nariz grande y aguileña, su barba negra de tártaro, rala y negra, decide que le conviene mas esperar. El guardián le da un escabel y le permite sentarse a un costado de la puerta.
+      \nAllí espera días y años. Intenta infinitas veces entrar y fatiga al guardián con sus súplicas. Con frecuencia el guardián conversa brevemente con él, le hace preguntas sobre su país y sobre muchas otras cosas; pero son preguntas indiferentes, como las de los grandes señores, y, finalmente siempre le repite que no puede dejarlo entrar. El hombre, que se ha provisto de muchas cosas para el viaje, sacrifica todo, por valioso que sea para sobornar al guardián. Este acepta todo, en efecto, pero le dice:
+      \n—Lo acepto para que no creas que has omitido ningún esfuerzo.
+      \nDurante esos largos años, el hombre observa casi continuamente al guardián: se olvida de los otros y le parece que éste es el único obstáculo que lo separa de la Ley. Maldice su mala suerte, durante los primeros años audazmente y en voz alta; más tarde, a medida que envejece, sólo murmura para si. Retorna a la infancia, y como en su cuidadosa y larga contemplación del guardián ha llegado a conocer hasta las pulgas de su cuello de piel, también suplica a las pulgas que lo ayuden y convenzan al guardián. Finalmente, su vista se debilita, y ya no sabe si realmente hay menos luz, o si sólo lo engañan sus ojos. Pero en medio de la oscuridad distingue un resplandor, que surge inextinguible de la puerta de la Ley. Ya le queda poco tiempo de vida. Antes de morir, todas las experiencias de esos largos años se confunden en su mente en una sola pregunta, que hasta ahora no ha formulado. Hace señas al guardián para que se acerque, ya que el rigor de la muerte comienza a endurecer su cuerpo. El guardián se ve obligado a agacharse mucho para hablar con él, porque la disparidad de estaturas entre ambos ha aumentado bastante con el tiempo, para desmedro del campesino.
+      \n—¿Qué quieres saber ahora?-pregunta el guardián-. Eres insaciable.
+      \n—Todos se esfuerzan por llegar a la Ley —dice el hombre—; ¿cómo es posible entonces que durante tantos años nadie más que yo pretendiera entrar?
+      \nEl guardián comprende que el hombre está por morir, y para que sus desfallecientes sentidos perciban sus palabras, le dice junto al oído con voz atronadora:
+      \n—Nadie podía pretenderlo porque esta entrada era solamente para tí.
+        \nAhora voy a cerrarla.
+    </string>
+    <string name="TituloCuento3">
+        Guy de Maupassant\n
+        (Francia, 1850-1893)\n
+        Bola de sebo (1880)\n
+        (“Boule de suif”)
+    </string>
+    <string name="Cuento3">
+        Durante muchos días consecutivos pasaron por la ciudad restos del ejército derrotado. Más que tropas regulares, parecían hordas en dispersión. Los soldados llevaban las barbas crecidas y sucias, los uniformes hechos jirones, y llegaban con apariencia de cansancio, sin bandera, sin disciplina. Todos parecían abrumados y derrengados, incapaces de concebir una idea o de tomar una resolución; andaba sólo por costumbre y caían muertos de fatiga en cuanto se paraban. Los más eran movilizados, hombres pacíficos, muchos de los cuales no hicieron otra cosa en el mundo que disfrutar de sus rentas, y los abrumaba el peso del fusil; otros eran jóvenes voluntarios impresionables, prontos al terror y al entusiasmo, dispuestos fácilmente a huir o acometer; y mezclados con ellos iban algunos veteranos aguerridos, restos de una división destrozada en un terrible combate; artilleros de uniforme oscuro, alineados con reclutas de varias procedencias, entre los cuales aparecía el brillante casco de algún dragón tardo en el andar, que seguía difícilmente la marcha ligera de los infantes.
+      Compañías de francotiradores, bautizados con epítetos heroicos: Los Vengadores de la Derrota, Los Ciudadanos de la Tumba, Los Compañeros de la Muerte, aparecían a su vez con aspecto de facinerosos, capitaneados por antiguos almacenistas de paños o de cereales, convertidos en jefes gracias a su dinero —cuando no al tamaño de las guías de sus bigotes—, cargados de armas, de abrigos y de galones, que hablaban con voz campanuda, proyectaban planes de campaña y pretendían ser los únicos cimientos, el único sostén de Francia agonizante, cuyo peso moral gravitaba por entero sobre sus hombros de fanfarrones, a la vez que se mostraban temerosos de sus mismos soldados, gentes del bronce, muchos de ellos valientes, y también forajidos y truhanes.
+      Por entonces se dijo que los prusianos iban a entrar en Ruán.
+      La Guardia Nacional, que desde dos meses atrás practicaba con gran lujo de precauciones prudentes reconocimientos en los bosques vecinos, fusilando a veces a sus propios centinelas y aprestándose al combate cuando un conejo hacía crujir la hojarasca, se retiró a sus hogares. Las armas, los uniformes, todos los mortíferos arreos que hasta entonces derramaron el terror sobre las carreteras nacionales, entre leguas a la redonda, desaparecieron de repente.
+      Los últimos soldados franceses acababan de atravesar el Sena buscando el camino de Pont-Audemer por Saint-Severt y Bourg-Achard, y su general iba tras ellos entre dos de sus ayudantes, a pie, desalentado porque no podía intentar nada con jirones de un ejército deshecho y enloquecido por el terrible desastre de un pueblo acostumbrado a vencer y al presente vencido, sin gloria ni desquite, a pesar de su bravura legendaria.
+    </string>
+    <string name="TituloCuento4">
+        Julio Cortázar\n
+        (1914-1984)\n
+        Casa tomada\n
+        (Bestiario, 1951)
+    </string>
+    <string name="Cuento4">
+        Nos gustaba la casa porque aparte de espaciosa y antigua (hoy que las casas antiguas sucumben a la más ventajosa liquidación de sus materiales) guardaba los recuerdos de nuestros bisabuelos, el abuelo paterno, nuestros padres y toda la infancia.
+         Nos habituamos Irene y yo a persistir solos en ella, lo que era una locura pues en esa casa podían vivir ocho personas sin estorbarse. Hacíamos la limpieza por la mañana, levantándonos a las siete, y a eso de las once yo le dejaba a Irene las últimas habitaciones por repasar y me iba a la cocina. Almorzábamos a mediodía, siempre puntuales; ya no quedaba nada por hacer fuera de unos platos sucios. Nos resultaba grato almorzar pensando en la casa profunda y silenciosa y cómo nos bastábamos para mantenerla limpia. A veces llegábamos a creer que era ella la que no nos dejó casarnos. Irene rechazó dos pretendientes sin mayor motivo, a mí se me murió María Esther antes que llegáramos a comprometernos. Entramos en los cuarenta años con la inexpresada idea de que el nuestro, simple y silencioso matrimonio de hermanos, era necesaria clausura de la genealogía asentada por nuestros bisabuelos en nuestra casa. Nos moriríamos allí algún día, vagos y esquivos primos se quedarían con la casa y la echarían al suelo para enriquecerse con el terreno y los ladrillos; o mejor, nosotros mismos la voltearíamos justicieramente antes de que fuese demasiado tarde.
+         Irene era una chica nacida para no molestar a nadie. Aparte de su actividad matinal se pasaba el resto del día tejiendo en el sofá de su dormitorio. No sé por qué tejía tanto, yo creo que las mujeres tejen cuando han encontrado en esa labor el gran pretexto para no hacer nada. Irene no era así, tejía cosas siempre necesarias, tricotas para el invierno, medias para mí, mañanitas y chalecos para ella. A veces tejía un chaleco y después lo destejía en un momento porque algo no le agradaba; era gracioso ver en la canastilla el montón de lana encrespada resistiéndose a perder su forma de algunas horas. Los sábados iba yo al centro a comprarle lana; Irene tenía fe en mi gusto, se complacía con los colores y nunca tuve que devolver madejas. Yo aprovechaba esas salidas para dar una vuelta por las librerías y preguntar vanamente si había novedades en literatura francesa. Desde 1939 no llegaba nada valioso a la Argentina.
+         Pero es de la casa que me interesa hablar, de la casa y de Irene, porque yo no tengo importancia. Me pregunto qué hubiera hecho Irene sin el tejido. Uno puede releer un libro, pero cuando un pullover está terminado no se puede repetirlo sin escándalo. Un día encontré el cajón de abajo de la cómoda de alcanfor lleno de pañoletas blancas, verdes, lila. Estaban con naftalina, apiladas como en una mercería; no tuve valor de preguntarle a Irene qué pensaba hacer con ellas. No necesitábamos ganarnos la vida, todos los meses llegaba la plata de los campos y el dinero aumentaba. Pero a Irene solamente la entretenía el tejido, mostraba una destreza maravillosa y a mí se me iban las horas viéndole las manos como erizos plateados, agujas yendo y viniendo y una o dos canastillas en el suelo donde se agitaban constantemente los ovillos. Era hermoso.
+    </string>
+    <string name="TituloCuento5">
+        Cuento de Ricitos de Oro
+    </string>
+    <string name="Cuento5">
+        Érase una vez una familia de osos que vivían en una linda casita en el bosque. Papá Oso era muy grande, Mamá Osa era de tamaño mediano y Osito era pequeño.
+        \nUna mañana, Mamá Osa sirvió la más deliciosa avena para el desayuno, pero como estaba demasiado caliente para comer, los tres osos decidieron ir de paseo por el bosque mientras se enfriaba. Al cabo de unos minutos, una niña llamada Ricitos de Oro llegó a la casa de los osos y tocó la puerta. Al no encontrar respuesta, abrió la puerta y entró en la casa sin permiso.
+        \nEn la cocina había una mesa con tres tazas de avena: una grande, una mediana y una pequeña. Ricitos de Oro tenía un gran apetito y la avena se veía deliciosa. Primero, probó la avena de la taza grande, pero la avena estaba muy fría y no le gustó. Luego, probó la avena de la taza mediana, pero la avena estaba muy caliente y tampoco le gustó. Por último, probó la avena de la taza pequeña y esta vez la avena no estaba ni fría ni caliente, ¡estaba perfecta! La avena estaba tan deliciosa que se la comió toda sin dejar ni un poquito.
+        \nDespués de comer el desayuno de los osos, Ricitos de Oro fue a la sala. En la sala había tres sillas: una grande, una mediana y una pequeña. Primero, se sentó en la silla grande, pero la silla era muy alta y no le gustó. Luego, se sentó en la silla mediana, pero la silla era muy ancha y tampoco le gustó. Fue entonces que encontró la silla pequeña y se sentó en ella, pero la silla era frágil y se rompió bajo su peso.
+        \nBuscando un lugar para descansar, Ricitos de Oro subió las escaleras, al final del pasillo había un cuarto con tres camas: una grande, una mediana y una pequeña. Primero, se subió a la cama grande, pero estaba demasiado dura y no le gustó. Después, se subió a la cama mediana, pero estaba demasiado blanda y tampoco le gustó. Entonces, se acostó en la cama pequeña, la cama no estaba ni demasiado dura ni demasiado blanda. De hecho, ¡se sentía perfecta! Ricitos de Oro se quedó profundamente dormida.
+        \nAl poco tiempo, los tres osos regresaron del paseo por el bosque. Papá Oso notó inmediatamente que la puerta se encontraba abierta:
+        \n—Alguien ha entrado a nuestra casa sin permiso, se sentó en mi silla y probó mi avena —dijo Papá Oso con una gran voz de enfado.
+        \n—Alguien se ha sentado en mi silla y probó mi avena —dijo Mamá Osa con una voz medio enojada.
+        \nEntonces, dijo Osito con su pequeña voz:
+        \n—Alguien se comió toda mi avena y rompió mi silla.
+        \nLos tres osos subieron la escalera. Al entrar en la habitación, Papá Oso dijo:
+        \n—¡Alguien se ha acostado en mi cama!
+        \nY Mamá Osa exclamó:
+        \n—¡Alguien se ha acostado en mi cama también!
+        \nY Osito dijo:
+        \n—¡Alguien está durmiendo en mi cama! —y se puso a llorar desconsoladamente.
+        \nEl llanto de Osito despertó a Ricitos de Oro, que muy asustada saltó de la cama y corrió escaleras abajo hasta llegar al bosque para jamás regresar a la casa de los osos.
+    </string>
+</resources>

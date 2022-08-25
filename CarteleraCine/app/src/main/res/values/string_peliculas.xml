@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PELICULA #1 -->
+    <string name="tituloPelicula1">
+        Prey
+    </string>
+    <string name="duracionPelicula1">
+        Duracion: 1h 39min
+    </string>
+    <string name="sinopsisPelicula1">
+        Set in the Comanche Nation 300 years ago, "Prey" is the story of a young woman, Naru, a fierce and highly skilled warrior.\n
+        She has been raised in the shadow of some of the most legendary hunters who roam the Great Plains,
+        so when danger threatens her camp, she sets out to protect her people.\n
+        The prey she stalks, and ultimately confronts, turns out to be a highly evolved alien predator with
+        a technically advanced arsenal, resulting in a vicious and terrifying showdown between the two adversaries.\n
+    </string>
+    <string name="elencoPelicula1">
+        Director: Dan Trachtenberg\n
+        Producer: John Davis, John Fox, Jhane Myers\n
+        Writer: Patrick Aison\n
+        Elenco:\n
+        Amber Midthunter (Naru)\n
+        Dakota Beavers\n
+        Stormee Kipp\n
+        Michelle Thrush\n
+    </string>
+    <string name="rottenTomatesPelicula1">
+        Tomatomer: 93%\n
+        Audience Score: 77%\n
+        Recaudacion: 1M$\n
+    </string>
+    <integer name="precioPelicula1">
+        31
+    </integer>
+    <!-- PELICULA #2 -->
+    <string name="tituloPelicula2">
+        Lightyear
+    </string>
+    <string name="duracionPelicula2">
+        Duracion: 1h 40min
+    </string>
+    <string name="sinopsisPelicula2">
+        Legendary space ranger Buzz Lightyear embarks on an intergalactic adventure alongside ambitious recruits Izzy,
+        Mo, Darby, and his robot companion, Sox.\n
+        As this motley crew tackles their toughest mission yet,
+        they must learn to work together as a team to escape the evil Zurg and his dutiful robot army that are never far behind.
+    </string>
+    <string name="elencoPelicula2">
+        Director: Angus MacLane\n
+        Producer: Galyn Susman\n
+        Writer: Jason Headley, Angus MacLane\n
+        Elenco:\n
+        Chis Evans (Buzz Lightyear)\n
+        Taika Waititi (Morrison)\n
+        Keke Palmer (Izzy)\n
+    </string>
+    <string name="rottenTomatesPelicula2">
+        Tomatomer: 75%\n
+        Audience Score: 84%\n
+        Recaudacion: 1M$\n
+    </string>
+    <string name="precioPelicula2">
+        32.00
+    </string>
+    <!-- PELICULA #3 -->
+    <string name="tituloPelicula3">
+        The Batman
+    </string>
+    <string name="duracionPelicula3">
+        Duracion: 2h 56min
+    </string>
+    <string name="sinopsisPelicula3">
+        Batman ventures into Gotham Citys underworld when a sadistic killer leaves behind
+        a trail of cryptic clues.\n
+        As the evidence begins to lead closer to home and the scale of the perpetrators
+        plans become clear, he must forge new relationships,
+        unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.\n
+    </string>
+    <string name="elencoPelicula3">
+        Director: Matt Reeves\n
+        Producer: Dylan Clark, Matt Reeves\n
+        Writer: Matt Reeves, Peter Craig\n
+        Elenco:\n
+        Robert Pattinson (Bruce Wayne, The Batman)\n
+        Zoe Kravitz (Selina Kyle)\n
+        Jeffrey wright (Lt. James Gordon)\n
+        Colin Farrell (Oz, The Penguin)\n
+        Paul Dano (The Riddler)\n
+    </string>
+    <string name="rottenTomatesPelicula3">
+        Tomatomer: 85%\n
+        Audience Score: 875\n
+        Recaudacion: 1M$\n
+    </string>
+    <string name="precioPelicula3">
+        33.00
+    </string>
+    <!-- PELICULA #4 -->
+    <string name="tituloPelicula4">
+        The Northman
+    </string>
+    <string name="duracionPelicula4">
+        Duracion: 2h 17min
+    </string>
+    <string name="sinopsisPelicula4">
+        Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle,
+        who kidnaps the boys mother.\n
+        Two decades later, Amleth is now a Viking whos on a mission to save his mother, kill his uncle and avenge his father.
+    </string>
+    <string name="elencoPelicula4">
+        Director: Robert Eggers\n
+        Producer: Robert Eggers, Mark Huffam, Lars Knudsen, Arnon Milchan, Alexander Skarsgard\n
+        Writer: Sjon, Robert Eggers\n
+        Elenco:\n
+        Alexander Skarsgard (Amleth)\n
+        Nicole Kidman (Queen Gudrun)\n
+        Claes Bang (Fjolnir the Brotherless)\n
+        Ethan Hawke (King Aurvandil War-Raven)\n
+        Anya Taylor-Joy (Olga of the Birch Forest)\n
+    </string>
+    <string name="rottenTomatesPelicula4">
+        Tomatomer: 89%\n
+        Audience Score: 64%\n
+        Recaudacion: 1M$\n
+    </string>
+    <string name="precioPelicula4">
+        34.00
+    </string>
+    <!-- PELICULA #5 -->
+    <string name="tituloPelicula5">
+        Doctor Strange in the Multiverse of Madness
+    </string>
+    <string name="duracionPelicula5">
+        Duracion: 2h 6min
+    </string>
+    <string name="sinopsisPelicula5">
+        In Marvel Studios "Doctor Strange in the Multiverse of Madness,"
+        the MCU unlocks the Multiverse and pushes its boundaries further than ever before.\n
+        Journey into the unknown with Doctor Strange, who, with the help of mystical allies both old and new,
+        traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.\n
+    </string>
+    <string name="elencoPelicula5">
+        Director: Sam Raimi\n
+        Producer: Kevin Feige\n
+        Writer: Michael Waldron\n
+        Elenco:\n
+        Benedict cumberbatch (Doctor Stephen Strange)\n
+        Elizabeth Olsen (Wanda Maximoff, The Scarlet Witch)\n
+        chiwetel Ejiofor (Baron Mordo)\n
+        Rachel McAdams (Dr. Christine Palmer)\n
+        Benedict Wong (Wong)\n
+        Xochitl Gomez (America Chavez)\n
+    </string>
+    <string name="rottenTomatesPelicula5">
+        Tomatomer: 74%\n
+        Audience Score: 85%\n
+        Recaudacion: 1M$\n
+    </string>
+    <string name="precioPelicula5">
+        35.00
+    </string>
+    <!-- PELICULA #6 -->
+    <string name="tituloPelicula6">
+        Hustle
+    </string>
+    <string name="duracionPelicula6">
+        Duracion: 1h 58min
+    </string>
+    <string name="sinopsisPelicula6">
+        Stanley Sugermans (Adam Sandler) love for basketball is unparalleled,
+        but the travel weary Philadelphia 76ers scout who has higher ambitions
+        of being a coach remains stuck on the road looking for the next unknown talent.\n
+        His search around the world leads him to Spain, when he discovers Bo Cruz (NBA player Juancho Hernangomez),
+        an incredible streetball player with a troubled past.\n
+        Stanley and Bo connect on and off the court,
+        with their passion for the game and as loving family men who want to prove they can win,
+        in basketball and in life. With the support of Stanleys wife,
+        Teresa (Queen Latifah), can the underdogs come out on top?\n
+    </string>
+    <string name="elencoPelicula6">
+        Director: Jeremiah Zagar\n
+        Producer: Adam Sandler, LeBron James, Maverick Carter, Jeff Kirschenbaum, Joe Roth, Zack Roth\n
+        Writer: Taylor Materne, Will Fetters\n
+        Elenco:\n
+        Adam Sandler (Stanley Sugerman)\n
+        Juancho Hernangomez (Bo Cruz)\n
+        Queen Latifah (teresa Sugerman)\n
+        Jaleel White (Blake)\n
+    </string>
+    <string name="rottenTomatesPelicula6">
+        Tomatomer: 93%\n
+        Audience Score: 93%\n
+        Recaudacion: 1M$\n
+    </string>
+    <string name="precioPelicula6">
+        36.00
+    </string>
+</resources>
