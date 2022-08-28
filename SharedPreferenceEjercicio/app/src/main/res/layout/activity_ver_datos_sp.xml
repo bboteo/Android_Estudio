@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VerDatosSP"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Carnet: "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:id="@+id/verCarnet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="------ "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Centro Estudio: "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:id="@+id/verCentroEstudio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="---- "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Carrera: "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:id="@+id/verCarrera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="--- "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Curso: "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+    <TextView
+        android:id="@+id/verCurso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="---- "
+        android:textSize="25sp"
+        android:textColor="@color/purple_700"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textStyle="bold"
+        android:layout_margin="20sp"/>
+</LinearLayout>
